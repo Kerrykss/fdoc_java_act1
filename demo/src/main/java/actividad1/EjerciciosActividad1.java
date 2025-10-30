@@ -23,7 +23,7 @@ public class EjerciciosActividad1 {
 
         // --- Identificadores ---
         int edadEstudiantet = 20;
-        String nombreCompletot = "Tatiana Vanegas";
+        String nombreCompletot = "Kerry Herrea";
         System.out.println("Nombre del estudiante: " + nombreCompletot);
         System.out.println("Edad: " + edadEstudiantet);
 
