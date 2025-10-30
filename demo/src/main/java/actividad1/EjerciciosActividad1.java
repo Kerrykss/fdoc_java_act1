@@ -9,7 +9,7 @@ public class EjerciciosActividad1 {
         double precio = 10.0;
         System.out.println("Precio: " + precio);
 
-        String nombre = "Tatiana";
+        String nombre = "Kerry";
         System.out.println("Nombre: " + nombre);
 
         // --- Identificadores ---
